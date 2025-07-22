@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Paulo Martinez-Amezaga
-
-📍 Boston, MA 
-
----
+#  Hi, I'm Paulo Martinez-Amezaga
 
 ## 🧬 About Me
 
