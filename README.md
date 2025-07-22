@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Paulo Martinez-Amezaga
 
-📍 Boston, MA | 📧 martinezamezaga.p@northeastern.edu | 📱 (+1) 914-314-2036  
-🔗 [LinkedIn](https://www.linkedin.com/in/pauloma) • [GitHub](https://github.com/pmartiame)
+📍 Boston, MA 
 
 ---
 
